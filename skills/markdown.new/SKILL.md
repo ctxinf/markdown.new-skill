@@ -9,7 +9,7 @@ Use `markdown.new` as the default path to access URL content as structured Markd
 
 ### Required Behavior
 
-1. Prefer local access with `curl`:
+1. Prefer local access with `curl` (or any suitable alternative tools):
 ```sh
 curl -L --fail --silent --show-error "https://markdown.new/<target_url>"
 ```

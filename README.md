@@ -1,10 +1,10 @@
 # markdown.new skill
-It enables an agent to fetch page content through `https://markdown.new/<url>`.
+It enables an agent to fetch page content through `https://markdown.new/<url>` .
 
-- No scripts
-- Single `SKILL.md`
-- title+description: 91 tokens
-- content: 283 tokens
+- Single `SKILL.md`, No python/nodejs scripts
+
+
+
 ## Installation
 
 ```bash
