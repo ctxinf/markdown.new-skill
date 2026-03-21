@@ -10,5 +10,11 @@ It enables an agent to fetch page content through `https://markdown.new/<url>`.
 skills add ctxinf/markdown.new-skill
 ```
 
+## Dev
+
+```sh
+rm -rf .agents/skills
+ln -s ../skills .agents/skills
+```
 
 
